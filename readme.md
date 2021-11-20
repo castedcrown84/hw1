@@ -2,7 +2,7 @@
 
 # Code-Refactor HW
 
-`<b>` Link to site:  https://castedcrown84.github.io/hw1/`</b>`
+`<b>` Link to site: https://castedcrown84.github.io/hw1/ `</b>`
 
 ## About
 
